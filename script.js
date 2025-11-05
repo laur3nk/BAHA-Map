@@ -59,3 +59,4 @@ const map = new mapboxgl.Map({
             map.getCanvas().style.cursor = '';
       });       
   });
+  
